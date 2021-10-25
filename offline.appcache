@@ -1,11 +1,16 @@
 ﻿CACHE MANIFEST
-#1634897590
+#1635166927
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
 offlineClient.js
 images/qskill-sheet0.png
 images/wskill-sheet0.png
+images/eskill-sheet0.png
+images/wskillshade-sheet0.png
+images/wskillshade-sheet1.png
+images/healthbar-sheet0.png
+images/hud-sheet0.png
 images/player-sheet0.png
 images/meleeguard-sheet0.png
 images/damagebox-sheet0.png
@@ -26,11 +31,9 @@ images/firecolumn-sheet0.png
 images/firecolumn-sheet1.png
 images/firecolumn-sheet2.png
 images/icepillar-sheet0.png
+images/icepillar-sheet1.png
 images/snowflakes.png
-images/hud-sheet0.png
-images/qskillshade-sheet0.png
-images/qskillshade-sheet1.png
-images/healthbar-sheet0.png
+images/wildvine-sheet0.png
 images/fadeout-sheet0.png
 images/surfaceprisonfloor.png
 images/tilebackground.png
@@ -85,6 +88,8 @@ images/ambientsprite-sheet0.png
 images/waterfall-sheet0.png
 images/waterfall-sheet1.png
 images/waterfall-sheet2.png
+media/menu_change.ogg
+media/menu_enter.ogg
 icon-16.png
 icon-32.png
 icon-114.png
