@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1636636905
+#1636895535
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -40,10 +40,13 @@ images/snowflakes.png
 images/wildvine-sheet0.png
 images/fadeout-sheet0.png
 images/surfaceprisonfloor.png
-images/tilebackground.png
 images/underprisonfloor.png
-images/stairs-sheet0.png
-images/stairs-sheet1.png
+images/prisonbackground.png
+images/leftprisontile.png
+images/rightprisontile.png
+images/bottomprisontile.png
+images/bottomleftprisontile.png
+images/prisontilemap.png
 images/shader-sheet0.png
 images/shader-sheet1.png
 images/sewerbackground.png

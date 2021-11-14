@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1636636905,
+	"version": 1636895535,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -41,10 +41,13 @@
 		"images/wildvine-sheet0.png",
 		"images/fadeout-sheet0.png",
 		"images/surfaceprisonfloor.png",
-		"images/tilebackground.png",
 		"images/underprisonfloor.png",
-		"images/stairs-sheet0.png",
-		"images/stairs-sheet1.png",
+		"images/prisonbackground.png",
+		"images/leftprisontile.png",
+		"images/rightprisontile.png",
+		"images/bottomprisontile.png",
+		"images/bottomleftprisontile.png",
+		"images/prisontilemap.png",
 		"images/shader-sheet0.png",
 		"images/shader-sheet1.png",
 		"images/sewerbackground.png",
