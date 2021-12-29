@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1639988316
+#1640762284
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -84,6 +84,7 @@ images/smoke-sheet1.png
 images/smoke-sheet2.png
 images/giantsnowflake-sheet0.png
 images/icespike-sheet0.png
+images/portalbriefcase-sheet0.png
 images/crushanim-sheet0.png
 images/crushanim-sheet1.png
 images/meleeguardsprite-sheet0.png
@@ -178,6 +179,7 @@ images/slash-sheet0.png
 images/groundarm-sheet0.png
 images/lavadamager-sheet0.png
 images/swordsmok.png
+images/belosstrike.png
 media/menu_theme.m4a
 media/menu_theme.ogg
 media/stealth_theme.m4a
@@ -190,6 +192,8 @@ media/vsluz.m4a
 media/vsluz.ogg
 media/attempted-loop.m4a
 media/belosbosstheme.ogg
+media/belos-idle-theme.m4a
+media/belos-idle-theme.ogg
 media/menu_change.ogg
 media/menu_enter.ogg
 media/ice_shock_hit.m4a

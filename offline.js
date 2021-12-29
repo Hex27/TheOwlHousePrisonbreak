@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1639988316,
+	"version": 1640762284,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -85,6 +85,7 @@
 		"images/smoke-sheet2.png",
 		"images/giantsnowflake-sheet0.png",
 		"images/icespike-sheet0.png",
+		"images/portalbriefcase-sheet0.png",
 		"images/crushanim-sheet0.png",
 		"images/crushanim-sheet1.png",
 		"images/meleeguardsprite-sheet0.png",
@@ -179,6 +180,7 @@
 		"images/groundarm-sheet0.png",
 		"images/lavadamager-sheet0.png",
 		"images/swordsmok.png",
+		"images/belosstrike.png",
 		"media/menu_theme.m4a",
 		"media/menu_theme.ogg",
 		"media/stealth_theme.m4a",
@@ -191,6 +193,8 @@
 		"media/vsluz.ogg",
 		"media/attempted-loop.m4a",
 		"media/belosbosstheme.ogg",
+		"media/belos-idle-theme.m4a",
+		"media/belos-idle-theme.ogg",
 		"media/menu_change.ogg",
 		"media/menu_enter.ogg",
 		"media/ice_shock_hit.m4a",
